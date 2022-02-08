@@ -39,7 +39,6 @@ Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![Macbook](https://img.icons8.com/color/30/apple.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
